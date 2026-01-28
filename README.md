@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**ouwyex/ouwyex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m Adiz, ML engineer based in Kazakhstan.
 
-Here are some ideas to get you started:
+I specialaize in building end to end Machine Learning systems, from data-mining and model-training to deployment and monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Modeling & Deep Learning: PyTorch, TensorFlow, Scikit-Learn
+
+Languages & Scripting: Python, SQL
+
+Data Architecture: PostgreSQL
+
+Infrastructure & Orchestration: Docker, Kubernetes
+
